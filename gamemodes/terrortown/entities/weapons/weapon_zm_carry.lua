@@ -30,7 +30,7 @@ SWEP.Base                   = "weapon_tttbase"
 
 SWEP.AutoSpawnable          = false
 
-SWEP.ViewModel              = Model("models/weapons/v_stunbaton.mdl")
+SWEP.ViewModel              = Model("models/weapons/c_stunstick.mdl")
 SWEP.WorldModel             = Model("models/weapons/w_stunbaton.mdl")
 
 SWEP.Primary.ClipSize       = -1
